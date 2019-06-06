@@ -1,0 +1,12 @@
+CensusTract,County,DI_ID,FoodProducing,Latitude,Longitude,ObjectID,State,Address,Est,GardenName,NeighborhoodName,EIN,Plots
+001000,Missoula,MT1,Yes,46.851145,-114.02796,CommunityGardenAtMontanaRailLinkPark,MT,2150 S Johnson St,2019,Community Garden at Montana Rail Link Park,Franklin to the Fort,81-0510580,39
+N/A,Missoula,MT2,N/A,46.842319,-113.994398,ASUMCommunityGarden,MT,N/A,N/A,ASUM Community Garden,University District,81-0510581,70
+001000,Missoula,MT3,Yes,46.8578,-114.034667,GardenOfEaton,MT,1475 Eaton Street,N/A,Garden of Eaton,Franklin to the Fort,81-0510582,35
+001100,Missoula,MT4,N/A,46.8631,-114.012519,IvyStreetCommunityGarden,MT,Marshall Street & Ivy Street,2015,Ivy Street Community Garden,Slant Streets,81-0510583,12
+001304,Missoula,MT5,Yes,46.832345,-114.039745,MeadowHillFlagshipCommunityGarden,MT,4210 S Reserve Street,N/A,Meadow Hill Flagship Community Garden,South Hills,81-0510584,38
+000201,Missoula,MT6,Yes,46.885146,-114.00019,NorthsideCommunityGarden,MT,Cooley Street & Holmes Street,N/A,Northside Community Garden,Northside,81-0510585,97
+000800,Missoula,MT7,Yes,46.871703,-114.042118,OrchardGardensCommunityGardens,MT,210 North Grove Street,2005,Orchard Gardens Community Garden,Orchard Homes,81-0510586,14
+000800,Missoula,MT8,N/A,46.870679,-114.020132,RiverRoadNeighborhoodFarmAndCommunityGarden,MT,1657 River Road,1997,River Road Neighborhood Farm & Community Garden,River Road,81-0510587,55
+N/A,Missoula,MT9,N/A,46.868407,-114.015856,MilwaukeeTrailGarden,MT,1580 Milwaukee Way,2014,Milwaukee Trail Garden,River Road,81-0510588,26
+N/A,Missoula,MT10,No,46.868465,-114.015835,SecondStreetCommunityGarden,MT,Inez Street & 2nd Street,N/A,Second Street Community Garden,River Road,81-0510589,16
+000901,Missoula,MT11,Yes,46.878518,-113.991736,ProvidenceGarden,MT,1211 S Reserve St #101,N/A,Providence Garden,Northside,81-0510590,N/A
