@@ -4,7 +4,7 @@ There are a number of potential users of our protocol. Policy-makers, researcher
 
 Our protocol will need to consider aspects of space, time, and governance. A description of the physical space including lot size. latitude, longitude. When gardens came into existence and how they have changed. Both community gardens and food security metrics are subject to the land’s governance be it by a local, state, federal, private, or public entity.
 
-## User Community
+## User Stories
 
 Through the utilization of User Stories we are able to more clearly define the needs and requirements for the Digging In protocol. The conceptualization of user needs early on allows Digging In to be user-focused and shows commitment to facilitating a holistic data landscape.
 
