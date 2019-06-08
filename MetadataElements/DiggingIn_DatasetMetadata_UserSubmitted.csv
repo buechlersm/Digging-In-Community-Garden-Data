@@ -1,0 +1,6 @@
+Label,Namespace,Definition,Mandatory?,Permitted Encoding Scheme &,Usage Notes,Example
+Dataset (class),dcat:Dataset,"A collection of data, published or curated by a single agent, and available for access or download in one or more formats.",yes,Rules,Requires at least one observation.,N/A
+Dataset title,dct:title,A name given to the record.,yes,N/A,N/A,Community Garden List
+Dataset description,dct:description,free-text account of the record.,no,"rdfs:Literal - literal values, eg. textual strings and integers",N/A,A list of community gardens with geolocations.
+Language,dct:language,The language of the dataset.,no,rdfs:Literal,--This overrides the value of the catalog language in case of conflict.,sal
+,,,,,,
