@@ -13,5 +13,5 @@ Four sources of community garden data were curated and included in this protocol
 3. [Garden City Harvest \(Missoula\) - Community Gardens List](https://www.gardencityharvest.org/community-garden-list)
 4. [NYC Open Data - NYC Greenthumb Community Gardens](https://data.cityofnewyork.us/Environment/NYC-Greenthumb-Community-Gardens/ajxm-kzmj)
 
-Cleaned datasets, data dictionary, and associated files can be found on [**Digging In's GitHub Repository.**](https://github.com/buechlersm/Digging-In-Community-Garden-Data)\*\*\*\*
+Cleaned datasets, data dictionary, and associated files can be found on [**Digging In's GitHub Repository.**](https://github.com/buechlersm/Digging-In-Community-Garden-Data/tree/master/CuratedDatasets_Cleaned)\*\*\*\*
 
