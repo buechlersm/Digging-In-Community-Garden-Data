@@ -4,3 +4,5 @@ Digging In is a data repository that houses community garden data for use and re
 
 Throughout this protocol we will define policies and necessary formats in order to facilitate discovery and access, reuse for varying disciplines and data seekers, and outline the next steps needed to bring Digging In from concept to creation.
 
+All files, including the information available in this GitBook, are also available in our[ GitHub Repository.](https://github.com/buechlersm/Digging-In-Community-Garden-Data)
+
