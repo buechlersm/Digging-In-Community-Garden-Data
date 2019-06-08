@@ -2,7 +2,7 @@
 
 The metadata standard used for Digging In primarily is primarily from W3C’s Data Catalog Vocabulary \(DCAT\) with elements borrowed from other standards as recommended by DCAT \(i.e., foaf:homepage for the catalog homepage’s namespace\). DCAT was selected for its common usage in civic data, as well as its ability to be mapped onto other standards to increase the extensibility of Digging In’s data.
 
-All metadata will be encoded in JSON.
+All metadata will be encoded in JSON. To see all aspects of the elements view our [metadata tables](https://github.com/buechlersm/Digging-In-Community-Garden-Data/tree/master/MetadataElements).
 
 ## **Catalog Level Metadata**
 
