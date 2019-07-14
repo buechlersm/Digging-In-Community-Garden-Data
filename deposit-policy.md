@@ -31,7 +31,7 @@ Digging In will do everything possible to ensure that data maintains its integri
 | shape files | .shp, .shx, .dbv | .prj, .sbn, .sbx | - |
 | text files | .xml, .txt | - | .docx |
 
-Comma-separated values are the most common file submitted to Digging In. he organization of your data within each file will also affect Digging In’s ability to preserve and re-use your information. Following the standard set forth by Hadley Wickham in “Tidy Data,” CSV data should conform to the following:
+Comma-separated values are the most common file submitted to Digging In. The organization of your data within each file will also affect Digging In’s ability to preserve and re-use your information. Following the standard set forth by Hadley Wickham in “Tidy Data,” CSV data should conform to the following:
 
 1. Each variable forms a column.
 2. Each observation forms a row.
